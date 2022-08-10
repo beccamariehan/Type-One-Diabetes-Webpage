@@ -1,5 +1,5 @@
 # Informative Type One Diabetes Webpage - Final Project
-This is an informative webpage about Type One Diabetes, made to bring insight and understanding of what life is really like living with the chronic condition.
+This is an informative webpage about Type One Diabetes, created to bring insight and understanding of what life is really like living with the chronic condition.
 
 ### Objective
 
