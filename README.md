@@ -11,8 +11,10 @@ This webpage includes information about what Type One Diabetes is, how one gets 
 
 ### What was used in the building of the webpage?
 
-For this webpage, HTML and CSS were used to create the whole webpage. There are also graphics pulled in from [DesignStripe](https://designstripe.com/). I chose to use only HTML and CSS because I wanted to push myself to learn more about how to design and layout a webpage, and use things such as flexbox and grid. I also want to add a quiz built with JS later to bring in a more instructional aspect. I also created several style files for different screen resolutions to help with the responsiveness of the webpage.
+For this webpage, it was built in replit and HTML and CSS were used to create the whole webpage. There are also graphics pulled in from [DesignStripe](https://designstripe.com/). I chose to use only HTML and CSS because I wanted to push myself to learn more about how to design and layout a webpage, and use things such as flexbox and grid. I also want to add a quiz built with JS later to bring in a more instructional aspect. I also created several style files for different screen resolutions to help with the responsiveness of the webpage.
 <br>
 <br>
 
 Here is the link to the webpage: <https://The-Life-Of-A-Type-One-Diabetic.beccamariehan.repl.co>
+
+Here is the link to the replit files: <https://replit.com/@beccamariehan/The-Life-Of-A-Type-One-Diabetic#index.html>
