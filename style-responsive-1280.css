@@ -1,0 +1,335 @@
+/* laptop screen */
+@media (max-width: 1280px) {
+
+
+
+/* Landing Page */
+  
+  #landing-page {
+    height: 802px;
+  }
+  
+  #header {
+    grid-area: 5/1/11/17;
+    top: 78px;
+  }
+
+  #header-img {
+    grid-area: 3/1/12/8;
+    top: 55px;
+  }
+
+  #header-byline {
+    grid-area: 9/1/11/12;
+    font-size: 1.4vw;
+    top: 54px;
+    margin: 0;
+  }
+
+  #landing-page-img {
+    grid-area: 8/12/16/21;
+    width: 80%;
+    height: auto;
+    left: 80px;
+    top: 50px;
+  }
+
+
+
+
+
+
+  
+
+/* What is T1D? Page */
+
+  #p2-boxes-container {
+    margin-left: 180px;
+    margin-right: 180px;
+  }
+
+  #p2-mint-star {
+    margin-left: 290px;
+    margin-top: 15px;
+  }
+
+  .p2-box {
+    max-width: 19%;
+    height: 70%;
+    margin-top: 15px;
+  }
+
+  .p2-box p {
+    font-size: 1.1vw;
+  }
+
+  #p2-header-byline {
+    font-size: 1.4vw;
+  }
+
+  #p2-mint-star {
+    margin-left: 260px;
+    margin-top: 20px;
+  }
+
+  #p2-box-one-img {
+    margin-top: 10px;
+  }
+
+  #p2-box-two-img {
+    margin-top: -45px;
+    margin-bottom: -75px;
+  }
+
+  #p2-box-three-img {
+    margin-top: -40px;
+    margin-bottom: -120px;
+  }
+
+  #p2-box-four-img {
+    width: 80%;
+    height: auto;
+    margin-top: -45px;
+    margin-bottom: -70px;
+}
+
+  #p2-box-five-img {
+    margin-top: 0px;
+    margin-bottom: -40px;
+  }
+
+  #p2-footer {
+    margin-top: -90px;
+    font-size: 1.4vw;
+  }
+
+  #p2-purple-star {
+    margin-left: 980px;
+    margin-top: -60px;
+  }
+
+
+
+
+  
+
+
+
+/* History of T1D Page */
+
+
+#page-two-and-three {
+  height: 1750px;
+}
+
+#p3-blue-star {
+  width: 6%;
+  top: 210px;
+  left: 180px;
+}
+
+#p3-boxes-container-top {
+  margin-top: 160px;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+#p3-boxes-container-bottom {
+  margin-top: -30px;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+  
+.p3-box p {
+  font-size: 1.1vw;
+}
+
+#arrow-one {
+  width: 7%;
+  left: 220px;
+  top: -40px;
+}
+
+#arrow-two {
+  width: 7%;
+  left: 260px;
+  top: -50px;
+}
+
+#arrow-three {
+  width: 7%;
+  left: 340px;
+  top: -40px;
+}
+
+#arrow-four {
+  width: 7%;
+  left: 380px;
+  top: -50px;
+}
+
+#arrow-five {
+  width: 7%;
+  left: 450px;
+  top: -40px;
+}
+
+#arrow-six {
+  width: 7%;
+  left: 490px;
+  top: -50px;
+}
+
+#p3-yellow-star {
+  width: 6%;
+  margin-left: 1070px;
+  top: -180px;
+}
+
+
+
+
+  
+
+
+
+/* What To Know About T1D Page */
+
+#p4-header {
+  top: -110px;
+}
+
+#p4-header-byline {
+  top: -100px;
+  font-size: 1.4vw;
+}
+
+#p4-white-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  top: 130px;
+  left: 80px;
+}
+
+#p4-yellow-star {
+  width: 8%;
+  height: auto;
+  position: relative;
+  left: 1100px;
+  top: -2800px;
+}
+
+#p4-blue-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  left: -30px;
+  top: -2000px;
+}
+
+#p4-pink-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  left: 850px;
+  top: -1575px;
+}
+
+#p4-purple-star {
+  width: 8%;
+  height: auto;
+  position: relative;
+  left: -320px;
+  top: -700px;
+}
+
+#p4-lime-green-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  left: 600px;
+  top: -170px;
+}
+
+#p4-container {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.p4-text {
+  font-size: 1.3vw;
+}
+
+#p4-footer {
+    font-size: 1.4vw;
+}
+
+
+
+
+
+
+
+
+/* Warning Signs of T1D Page */
+
+#page-five {
+  height: 1800px;
+}
+
+#p5-topic-header {
+  top: 10px;
+  margin-left: 600px;
+  margin-right: 180px;
+}
+
+#p5-topic-header-byline {
+  margin-top: 40px; 
+  margin-left: 600px;
+  margin-right: 180px;
+  font-size: 1.4vw;
+}
+
+#p5-bubbles-img {
+  margin-top: -880px;
+  margin-left: 180px;
+  margin-right: 180px;
+}
+
+#p5-bubble-text-one {
+  margin-left: -775px;
+  top: -150px;
+}
+
+#p5-bubble-text-two {
+  margin-left: -410px;
+  top: 85px;
+}
+
+#p5-bubble-text-three {
+  margin-left: 110px;
+  top: 70px;
+}
+
+#p5-bubble-text-four {
+  margin-left: 110px;
+  top: 215px;
+}
+
+#p5-bubble-text-five {
+  margin-left: -410px;
+  top: 215px;
+}
+
+#p5-footer {
+  margin-left: 330px;
+  margin-right: 330px;
+  font-size: 1.4vw;
+}
+
+#footer {
+  font-size: 1.4vw;
+}
+  
+}

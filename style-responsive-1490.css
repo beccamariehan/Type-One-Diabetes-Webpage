@@ -1,0 +1,283 @@
+/* smaller desktop screen */
+@media (max-width: 1490px) {
+
+
+
+/* Landing Page */
+  
+  #header {
+    grid-area: 5/1/11/17;
+  }
+
+  #header-byline {
+    grid-area: 9/1/11/12;
+  }
+
+
+
+
+
+
+  
+
+/* What is T1D? Page*/
+
+
+  #p2-mint-star {
+    margin-left: 290px;
+    margin-top: 15px;
+  }
+
+  .p2-box {
+    max-width: 18%;
+    height: 70%;
+    margin-top: 15px;
+  }
+
+  .p2-box p {
+    font-size: 1.05vw;
+  }
+
+  #p2-box-one-img {
+    margin-top: 10px;
+  }
+
+  #p2-box-two-img {
+    margin-top: -45px;
+    margin-bottom: -75px;
+  }
+
+  #p2-box-three-img {
+    margin-top: -40px;
+    margin-bottom: -120px;
+  }
+
+  #p2-box-four-img {
+    width: 80%;
+    height: auto;
+    margin-top: -45px;
+    margin-bottom: -70px;
+}
+
+  #p2-box-five-img {
+    margin-top: 0px;
+    margin-bottom: -40px;
+  }
+
+  #p2-footer {
+    margin-top: -90px;
+  }
+
+  #p2-purple-star {
+    margin-left: 1195px;
+    margin-top: -70px;
+  }
+  
+
+
+
+
+
+
+
+
+/* History of T1D Page */
+
+#page-two-and-three {
+  height: 1800px;
+}
+
+#p3-blue-star {
+  width: 6%;
+  top: 220px;
+  left: 200px;
+}
+
+#p3-boxes-container-top {
+  margin-top: 160px;
+}
+
+#p3-boxes-container-bottom {
+  margin-top: -30px;
+}
+
+.p3-box {
+  max-width: 20%;
+}
+  
+.p3-box p {
+  font-size: 1.05vw;
+}
+
+#arrow-one {
+  width: 6%;
+  left: 260px;
+  top: -40px;
+}
+
+#arrow-two {
+  width: 6%;
+  left: 340px;
+  top: -50px;
+}
+
+#arrow-three {
+  width: 6%;
+  left: 440px;
+  top: -40px;
+}
+
+#arrow-four {
+  width: 6%;
+  left: 490px;
+  top: -50px;
+}
+
+#arrow-five {
+  width: 6%;
+  left: 580px;
+  top: -40px;
+}
+
+#arrow-six {
+  width: 6%;
+  left: 660px;
+  top: -50px;
+}
+
+#p3-yellow-star {
+  width: 6%;
+  margin-left: 1220px;
+  top: -180px;
+}
+
+
+  
+
+
+
+
+/* What To Know About T1D Page */
+
+#p4-header {
+  top: -140px;
+}
+
+#p4-header-byline {
+  top: -140px;
+}
+
+#p4-white-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  top: 130px;
+  left: 80px;
+}
+
+#p4-yellow-star {
+  width: 8%;
+  height: auto;
+  position: relative;
+  left: 1200px;
+  top: -2500px;
+}
+
+#p4-blue-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  left: 30px;
+  top: -2000px;
+}
+
+#p4-pink-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  left: 1000px;
+  top: -1500px;
+}
+
+#p4-purple-star {
+  width: 8%;
+  height: auto;
+  position: relative;
+  left: -340px;
+  top: -700px;
+}
+
+#p4-lime-green-star {
+  width: 10%;
+  height: auto;
+  position: relative;
+  left: 620px;
+  top: -150px;
+}
+  
+#p4-container {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.p4-text {
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+/* Warning Signs of T1D Page */
+
+#page-five {
+  height: 2050px;
+}
+
+#p5-topic-header {
+  top: 60px;
+}
+
+#p5-topic-header-byline {
+  margin-top: 90px;
+}
+
+#p5-bubbles-img {
+  margin-top: -1080px;
+}
+
+#p5-bubble-text-one {
+  margin-left: -728px;
+  top: -208px;
+}
+
+#p5-bubble-text-two {
+  margin-left: -303px;
+  top: 65px;
+}
+
+#p5-bubble-text-three {
+  margin-left: 300px;
+  top: 50px;
+}
+
+#p5-bubble-text-four {
+  margin-left: 300px;
+  top: 205px;
+}
+
+#p5-bubble-text-five {
+  margin-left: -300px;
+  top: 195px;
+}
+
+#p5-footer {
+  margin-left: 330px;
+  margin-right: 330px;
+}
+  
+
+}

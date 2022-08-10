@@ -1,0 +1,504 @@
+/* mobile screen */
+@media (max-width: 480px) {
+
+
+
+/* Landing Page */
+  
+  ul {
+    font-size: 2.3vw;
+  }
+
+  #landing-page {
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 700px;
+  }
+
+  #header {
+    display: none;
+  }
+
+  #header-byline {
+    display: none;
+  }
+  
+  #mobile-header {
+    z-index: 5;
+    color: #000;
+    font-size: 8.3vw;
+    font-family: 'Titan One', cursive;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: block;
+    margin: 0;
+    position: relative;
+    grid-area: 5/1/13/21;
+    text-align: center;
+  }
+
+  #mobile-header-byline {
+    display: block;
+    z-index: 1;
+    color: #000;
+    font-size: 16px;
+    font-family: greycliff-cf,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    text-align: center;
+    margin: 0;
+    margin-top: 5px;
+    grid-area: 9/1/14/21;
+  }
+
+  #header-img {
+    position: absolute;
+    width: 50%;
+    height: auto;
+    top: 50px;
+    opacity: 90%;
+  }
+
+  #landing-page-img {
+    grid-area: 13/1/20/18;
+    width: 100%;
+    height: auto;
+    left: 10px;
+    top: 20px;
+  }
+
+
+
+
+
+
+  
+
+
+
+/* What is T1D? Page */
+
+#page-two-and-three {
+  height: 4350px;
+}
+
+#p2-boxes-container {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 80px;
+    flex-direction: column;
+    align-items: center;
+    height: 2200px;
+  }
+
+  #p2-mint-star {
+    margin-left: 290px;
+    margin-top: 15px;
+  }
+
+  .p2-box {
+    max-width: 90%;
+    height: 80%;
+    margin-top: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .p2-box p {
+    font-size: 16px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+  }
+
+  #p2-header {
+    font-size: 8.3vw;
+    margin-top: 40px;
+    top: 30px;
+  }
+
+  #p2-header-byline {
+    font-size: 16px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: -10px;
+  }
+
+  #p2-mint-star {
+    width: 18%;
+    margin-left: 0px;
+    margin-top: 90px;
+  }
+
+  #p2-box-one-img {
+    width: 75%;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  #p2-box-two-img {
+    margin-top: -10px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+  }
+
+  #p2-box-three-img {
+    width: 85%;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+  }
+
+  #p2-box-four-img {
+    width: 80%;
+    height: auto;
+    margin-top: -10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+
+  #p2-box-five-img {
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+  }
+
+  #p2-footer {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 16px;
+  }
+
+  #p2-purple-star {
+    width: 15%;
+    margin-left: 320px;
+    margin-top: -25px;
+  }
+
+
+
+
+
+  
+
+
+/* History of T1D Page */
+
+#p3-header {
+    font-size: 8.3vw;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#p3-blue-star {
+  display: none;
+}
+
+#p3-boxes-container-mobile {
+  height: 400px;
+  margin-top: 160px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.p3-box-mobile {
+  max-width: 80%;
+  height: 40%;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 15px;
+}
+  
+.p3-box-mobile p {
+  font-size: 16px;
+}
+
+  #p3-yellow-star {
+  display: none;
+}
+
+#p3-pink-lightning-mobile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 25%;
+  height: auto;
+  position: relative;
+  top: 920px;
+}
+
+
+
+
+
+
+  
+  
+
+/*What To Know About T1D Page */
+
+#page-four {
+  height: 4850px;
+}
+
+#p4-white-star {
+  display: none;
+}
+
+#p4-yellow-star {
+  display: none;
+}
+
+#p4-blue-star {
+  display: none;
+}
+
+#p4-pink-star {
+  display: none;
+}
+
+#p4-purple-star {
+  display: none;
+}
+
+#p4-lime-green-star {
+  display: none;
+}
+
+#p4-header {
+  top: 0px;
+  font-size: 8.3vw;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#p4-header-byline {
+  top: -10px;
+  font-size: 16px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#p4-container {
+  height: 3900px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 60px;
+}
+
+.p4-text {
+  font-size: 16px;
+  width: 100%;
+}
+
+#p4-footer {
+  font-size: 16px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 330px;
+}
+
+#p4-text-one {
+  margin-top: -80px;
+}
+
+#p4-text-two {
+  margin-top: -80px;
+}
+
+#p4-text-three {
+  margin-top: -80px;
+  margin-bottom: 140px;
+}
+
+#p4-text-four {
+  margin-top: -80px;
+  margin-bottom: 70px;
+}
+
+#p4-text-five {
+  margin-top: -80px;
+  margin-bottom: 120px;
+}
+
+#p4-text-six {
+  margin-top: -80px;
+  margin-bottom: 100px;
+}
+
+#p4-text-seven {
+  margin-top: -80px;
+  margin-bottom: 80px;
+}
+
+#p4-text-eight {
+  margin-top: -80px;
+  margin-bottom: 170px;
+}
+
+#p4-text-nine {
+  margin-top: -80px;
+  margin-bottom: 180px;
+}
+
+#p4-text-ten {
+  margin-top: -80px;
+  margin-bottom: 190px;
+}
+
+#p4-text-eleven {
+  margin-top: -80px;
+}
+
+
+
+
+
+  
+  
+
+
+/* Warning Signs of T1D Page */
+
+#page-five {
+  height: 2500px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#p5-header {
+  top: 40px;
+  font-size: 7.3vw;
+}
+
+#p5-topic-header {
+  top: -110px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 4.1vw;
+  text-align: center;
+}
+
+#p5-topic-header-byline {
+  margin-top: -100px; 
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 16px;
+  text-align: center;
+}
+
+#p5-bubbles-img {
+  display: none;
+}
+
+.p5-bubble-text {
+  display: none;
+}
+
+#p5-bubble-text-one {
+  display: none;
+}
+
+#p5-bubble-text-two {
+  display: none;
+}
+
+#p5-bubble-text-three {
+  display: none;
+}
+
+#p5-bubble-text-four {
+  display: none;
+}
+
+#p5-bubble-text-five {
+  display: none;
+}
+
+#p5-bubble-container-mobile {
+  display: flex;
+  justify-content: center;
+  align-items: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 1500px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: -60px;
+}
+
+.p5-bubbles {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  background: #A78BFF;
+  border: 4px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+  
+#p5-bubble-one {
+  width: 130px;
+  height: 130px;
+  margin-bottom: 150px;
+}
+
+#p5-bubble-two {
+  background: #F9DC4D;
+}
+
+#p5-bubble-three {
+  background: #D3FE57;
+}
+
+#p5-bubble-four {
+  background: #95DFEE;
+}
+
+#p5-bubble-five {
+  background: #FFA0DC;
+}
+
+#p5-arrow {
+  display: block;
+  width: 30%;
+  height: auto;
+  position: relative;
+  z-index: 0;
+  transform: rotate(90deg);
+  top: 210px;
+}
+
+.p5-bubble-text-mobile {
+  z-index: 5;
+  color: #000;
+  font-size: 4.1vw;
+  font-family: 'Titan One', cursive;
+  font-weight: 400;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#p5-footer {
+  margin-top: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 16px;
+}
+
+#footer {
+  font-size: 16px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+  
+}
