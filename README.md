@@ -7,7 +7,7 @@ Type One Diabetes is often a misunderstood and misrepresented chronic condition 
 
 ### What does the webpage entail?
 
-This webpage includes information about what Type One Diabetes is, how one gets it, how one lives with it, how to know the warning signs, and the history of the condition. It is all written with the perspective of the creator of the page (myself), who is a Type One Diabetic. Though this is still a basic page considering all that goes into managing T1D, and there is much more information which could be added, the hope is to shed light on a subject often misunderstood.
+This webpage includes information about what Type One Diabetes is, how one gets it, how one lives with it, how to know the warning signs, and the history of the condition. It is all written with the knowledge of the creator of the page (myself), who is a Type One Diabetic. Though this is still a basic page considering all that goes into managing T1D, and there is much more information which could be added, the hope is to shed light on a subject often misunderstood.
 
 ### What was used in the building of the webpage?
 
